@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    font-weight: 700;
+    letter-spacing: normal;
+}
+
+.slogan {
+    font-style: italic;
+    font-weight: 300;
+}
